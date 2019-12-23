@@ -10,3 +10,4 @@ def summon_captain_planet(array)
   end
   planeteer_calls
 end
+
